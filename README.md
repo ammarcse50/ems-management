@@ -114,14 +114,6 @@ A full-stack **MERN (MongoDB, Express.js, React, Node.js)** web application that
 
 ---
 
-## 📦 Deployment Suggestions
-
-* **Frontend**: Vercel or Netlify
-* **Backend**: CapRover, Railway, Render, or VPS
-* **Database**: MongoDB Atlas
-* **Image Storage**: Local (default) or Cloudinary (optional upgrade)
-
----
 
 ## 🔮 Future Enhancements
 
